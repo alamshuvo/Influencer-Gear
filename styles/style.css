@@ -6,9 +6,9 @@
     font-family: 'Poppins', sans-serif;
 }
 /* common shared */
-img{
+/* img{
     width: 100%;
-}
+} */
 .container{
     max-width: 1280px;
     width: 88%;
@@ -93,6 +93,20 @@ nav h2{
 
 }
 /* banner section end */
+
+/* sponser section start */
+#sponsore-section{
+    border: 1px dotted slategray;
+    margin: 100px auto;
+    padding: 50px;
+}
+.sponsore-img{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    width: 100%;
+}
+
 
 
 

@@ -1,6 +1,6 @@
 @media screen and (max-width: 576px) {
   /* nav bar section responsive */
-  nav ,.manue, .banner{
+  nav ,.manue, .banner, .sponsore-img{
     flex-direction: column;
     margin: 5px;
     padding: 10px;
@@ -33,6 +33,12 @@
   }
   /* banner section end  */
 
+  /* sponser section start */
+  .sponsore-img{
+    width: 90%;
+    gap: 30px;
+  }
+  /* sponsore section end  */
 
 
     
