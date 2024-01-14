@@ -170,3 +170,17 @@ nav h2 {
     border-radius: 30px;
 
 }
+/* featured section end */
+
+/* footer section start */
+.footer-container{
+ background-color: var(--footer-color);
+ padding: 10px;
+}
+.footer-container .footer-text{
+    text-align: center;
+    color: var(--text-color);
+
+
+}
+/* footer section end */

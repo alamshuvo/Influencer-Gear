@@ -49,6 +49,19 @@
 .featurd-img img{
     width: 100%;
 }
-
+/* footer section start */
+.footer-container{
+    width: 100%;
+    height: auto;
+}
+.footer-container .footer-text{
+    color:#fff;
+    width: 90%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+}
+/* footer section end */
 
 }
