@@ -1,6 +1,7 @@
 @media screen and (min-width: 577px) and (max-width: 992px) {
   /* nav var section responsive */
-  nav ,.manue ,.banner ,.sponsore-img{
+ 
+  nav ,.manue ,.banner ,.sponsore-img ,.popular-collection-card-info-1,.popular-collection-card-info-2,.popular-collection-card-info-3{
     flex-direction: column;
     margin: 5px;
     padding: 10px;
@@ -37,6 +38,8 @@
     gap: 50px;
   }
   /* sponsore section end  */
+  /* popular section */
+
 
 
 }
