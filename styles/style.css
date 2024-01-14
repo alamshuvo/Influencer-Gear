@@ -19,6 +19,7 @@
   --text-color: #fff;
   --font-size: 16px;
   --btn-color: #e02c6d;
+  --footer-color:#0A0826;
 }
 
 /* header area section */
@@ -130,4 +131,42 @@ nav h2 {
   background: #fff;
   box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
   padding: 10px;
+}
+/* popular collection end */
+
+/* featured collection start */
+
+#featured-section{
+    display: flex;
+    gap: 50px;
+    margin-top: 70px;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+}
+.featurd-text{
+    text-align: left;
+   
+}
+.featurd-text .featured-title{
+    color: var(--footer-color);
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.featurd-text .featured-dris{
+    color: var(--primary-color);
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.featurd-text .featured-btn{
+    margin-top: 10px;
+    padding: 10px 24px;
+    background-color: var(--btn-color);
+    border: none;
+    border-radius: 30px;
+
 }
